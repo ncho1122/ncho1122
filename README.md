@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi,%20I'm%20Nicho&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" width="100%" />
 </div>
 
-<h2 align="left">Hi <img src="https://i.redd.it/uh4vju8yy6fe1.gif" width="28" alt="wave" />! My name is Nicho and I'm a Bot & Full-Stack Developer, from YOUR_CITY, Indonesia.</h2>
+<h2 align="left">Hi <img src="https://i.redd.it/uh4vju8yy6fe1.gif" width="28" alt="wave" />! My name is Nicho and I'm a Bot & Full-Stack Developer, from Surakarta, Indonesia.</h2>
 
 <img align="right" height="150" src="https://i.redd.it/uh4vju8yy6fe1.gif" alt="gif" />
 
