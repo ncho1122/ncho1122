@@ -54,6 +54,14 @@
 
 ###
 
+### 💬 Say Hi!
+<div align="left">
+  <a href="https://github.com/ncho1122"><img src="https://img.shields.io/github/followers/ncho1122?style=for-the-badge&logo=github&label=Follow%20me&color=24292e" height="35" alt="follow" /></a>
+  <a href="https://github.com/ncho1122/ncho1122/issues/1"><img src="https://img.shields.io/static/v1?message=Leave%20a%20Like&logo=github&label=&color=ff5c8a&logoColor=white&style=for-the-badge" height="35" alt="like" /></a>
+  <a href="https://github.com/ncho1122/ncho1122/issues/new?title=%F0%9F%91%8B+Hello+Nicho!&body=Hi!+I+visited+your+profile.+Here+is+my+message:+"><img src="https://img.shields.io/static/v1?message=Guestbook&logo=githubsponsors&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="guestbook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ncho1122&label=Profile%20views&color=7289da&style=for-the-badge" height="35" alt="profile views" />
+</div>
+
 ### 📫 Let's Connect
 <div align="left">
   <a href="https://wa.me/62882005241828"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp" /></a>
