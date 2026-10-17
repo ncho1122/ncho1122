@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" shape-rendering="crispEdges" role="img" aria-label="Pixel sky banner">
+  <style>
+    .drift { animation: drift linear infinite; }
+    @keyframes drift { from { transform: translateX(-120px); } to { transform: translateX(860px); } }
+    .twinkle { animation: twinkle 2.4s steps(2, end) infinite; }
+    @keyframes twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.15; } }
+    .glow { animation: glow 3s steps(3, end) infinite; }
+    @keyframes glow { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.45; } }
+  </style>
+
+  <defs>
+    <g id="cloud">
+      <rect x="16" y="0" width="32" height="8" fill="#ffffff"/>
+      <rect x="8" y="8" width="56" height="8" fill="#ffffff"/>
+      <rect x="0" y="16" width="72" height="8" fill="#ffffff"/>
+      <rect x="8" y="24" width="56" height="8" fill="#cfe6fb"/>
+    </g>
+    <g id="sparkle" fill="#ffffff">
+      <rect x="8" y="0" width="8" height="8"/>
+      <rect x="0" y="8" width="8" height="8"/>
+      <rect x="8" y="8" width="8" height="8"/>
+      <rect x="16" y="8" width="8" height="8"/>
+      <rect x="8" y="16" width="8" height="8"/>
+    </g>
+  </defs>
+
+  <!-- sky bands -->
+  <rect x="0" y="0" width="800" height="25" fill="#3a7bd5"/>
+  <rect x="0" y="25" width="800" height="25" fill="#4a8be0"/>
+  <rect x="0" y="50" width="800" height="25" fill="#5a9be8"/>
+  <rect x="0" y="75" width="800" height="25" fill="#6cacee"/>
+  <rect x="0" y="100" width="800" height="25" fill="#7fbcf3"/>
+  <rect x="0" y="125" width="800" height="25" fill="#93c9f6"/>
+  <rect x="0" y="150" width="800" height="25" fill="#a8d6f8"/>
+  <rect x="0" y="175" width="800" height="25" fill="#bfe3fa"/>
+
+  <!-- dithering between bands -->
+  <g fill="none" stroke-width="8" stroke-dasharray="8 8">
+    <path d="M0 21H800" stroke="#4a8be0"/>
+    <path d="M0 46H800" stroke="#5a9be8"/>
+    <path d="M0 71H800" stroke="#6cacee"/>
+    <path d="M0 96H800" stroke="#7fbcf3"/>
+    <path d="M0 121H800" stroke="#93c9f6"/>
+    <path d="M0 146H800" stroke="#a8d6f8"/>
+    <path d="M0 171H800" stroke="#bfe3fa"/>
+  </g>
+
+  <!-- sun -->
+  <g>
+    <rect class="glow" x="704" y="16" width="48" height="64" fill="#ffe98a"/>
+    <rect class="glow" x="696" y="24" width="64" height="48" fill="#ffe98a"/>
+    <rect x="712" y="24" width="32" height="8" fill="#ffd93b"/>
+    <rect x="704" y="32" width="48" height="32" fill="#ffd93b"/>
+    <rect x="712" y="64" width="32" height="8" fill="#ffd93b"/>
+  </g>
+
+  <!-- sparkles -->
+  <use href="#sparkle" class="twinkle" x="150" y="30"/>
+  <use href="#sparkle" class="twinkle" x="600" y="52" style="animation-delay:-1.2s"/>
+  <use href="#sparkle" class="twinkle" x="60" y="70" style="animation-delay:-0.6s"/>
+
+  <!-- drifting clouds -->
+  <g transform="translate(0,14)"><g class="drift" style="animation-duration:46s;animation-delay:-8s"><use href="#cloud"/></g></g>
+  <g transform="translate(0,40)"><g class="drift" style="animation-duration:70s;animation-delay:-50s"><use href="#cloud"/></g></g>
+  <g transform="translate(0,132)"><g class="drift" style="animation-duration:60s;animation-delay:-35s"><use href="#cloud" transform="scale(2)"/></g></g>
+  <g transform="translate(0,152)"><g class="drift" style="animation-duration:38s;animation-delay:-20s"><use href="#cloud"/></g></g>
+
+  <!-- title -->
+  <text x="404" y="112" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="48" font-weight="700" fill="#1e3a8a">Hi, I'm Nicho</text>
+  <text x="400" y="108" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="48" font-weight="700" fill="#ffffff">Hi, I'm Nicho</text>
+  <text x="400" y="146" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="700" fill="#14306b">Bot &amp; Full-Stack Developer</text>
+</svg>
