@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi,%20I'm%20Nicho&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" width="100%" />
+</div>
 
-<!--
-**ncho1122/ncho1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />! My name is Nicho and I'm a Bot & Full-Stack Developer, from YOUR_CITY, Indonesia.</h2>
 
-Here are some ideas to get you started:
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/ncho1122">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=BD93F9&vCenter=true&width=480&lines=Building+WhatsApp+bots+%F0%9F%A4%96;Self-hosting+on+my+own+VPS+%E2%98%81%EF%B8%8F;Crafting+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="typing animation" />
+  </a>
+</p>
+
+###
+
+### 🔭 What I'm up to
+- 🤖 Building **Tsukiyo**, a WhatsApp bot platform and community hub
+- ☁️ Running my own hosting panel on VPS infrastructure
+- 🌐 Working on web projects with **Next.js**
+- 🌱 Learning and shipping something new every week
+
+###
+
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+</div>
+
+###
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ncho1122/ncho1122/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/ncho1122/ncho1122/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+### 📫 Let's Connect
+<div align="left">
+  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" /></a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ncho1122/ncho1122/snake-output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%" />
+</div>
