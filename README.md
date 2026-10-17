@@ -67,8 +67,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ncho1122/ncho1122/snake-output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncho1122/ncho1122/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncho1122/ncho1122/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ncho1122/ncho1122/output/pacman-contribution-graph.svg">
+</picture>
 </div>
