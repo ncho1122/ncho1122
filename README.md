@@ -19,9 +19,9 @@
       </ul>
     </td>
     <td align="center" valign="top">
-      <img src="https://i.redd.it/uh4vju8yy6fe1.gif" height="150" alt="gif 1" />
+      <img src="https://gif.nicholas.biz.id/anime.gif" height="150" alt="gif 1" />
       <br />
-      <img src="https://gif.nicholas.biz.id/anime.gif" height="150" alt="gif 2" />
+      <img src="https://i.redd.it/uh4vju8yy6fe1.gif" height="150" alt="gif 2" />
     </td>
   </tr>
 </table>
