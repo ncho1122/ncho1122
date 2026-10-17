@@ -4,22 +4,27 @@
 
 <h2 align="left">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyam85Z280a3ZiOGw3bHE3Nnpia3h5ejBvczRucDNnNWR3Z3Q5dmVibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/200.gif" width="28" alt="wave" />! My name is Nicho and I'm a Full-Stack Developer, from Surakarta, Indonesia.</h2>
 
-<img align="right" height="150" src="https://i.redd.it/uh4vju8yy6fe1.gif" alt="gif" />
-
-<p align="left">
-  <a href="https://github.com/ncho1122">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=BD93F9&vCenter=true&width=480&lines=Building+WhatsApp+bots+%F0%9F%A4%96;Self-hosting+on+my+own+VPS+%E2%98%81%EF%B8%8F;Crafting+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="typing animation" />
-  </a>
-</p>
-
-###
-
-### 🔭 What I'm up to
-- 🌱 Starting fresh and building new projects, one at a time
-- ☁️ Running my own hosting panel on VPS infrastructure
-- 🌐 Working on web projects with **Next.js**
-- 📚 Learning and shipping something new every week
-###
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/ncho1122">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=BD93F9&vCenter=true&width=480&lines=Building+WhatsApp+bots+%F0%9F%A4%96;Self-hosting+on+my+own+VPS+%E2%98%81%EF%B8%8F;Crafting+full-stack+web+apps+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="typing animation" />
+      </a>
+      <h3>🔭 What I'm up to</h3>
+      <ul>
+        <li>🌱 Starting fresh and building new projects, one at a time</li>
+        <li>☁️ Running my own hosting panel on VPS infrastructure</li>
+        <li>🌐 Working on web projects with <b>Next.js</b></li>
+        <li>📚 Learning and shipping something new every week</li>
+      </ul>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://i.redd.it/uh4vju8yy6fe1.gif" height="150" alt="gif 1" />
+      <br />
+      <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="gif 2" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack
 <div align="left">
