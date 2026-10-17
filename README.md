@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ncho1122/ncho1122/main/assets/pixel-sky.svg" alt="Pixel sky banner" width="100%" />
 </div>
 
-<h2 align="left">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyam85Z280a3ZiOGw3bHE3Nnpia3h5ejBvczRucDNnNWR3Z3Q5dmVibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/200.gif" width="28" alt="wave" />! My name is Nicho and I'm a Bot & Full-Stack Developer, from Surakarta, Indonesia.</h2>
+<h2 align="left">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyam85Z280a3ZiOGw3bHE3Nnpia3h5ejBvczRucDNnNWR3Z3Q5dmVibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/200.gif" width="28" alt="wave" />! My name is Nicho and I'm a Full-Stack Developer, from Surakarta, Indonesia.</h2>
 
 <img align="right" height="150" src="https://i.redd.it/uh4vju8yy6fe1.gif" alt="gif" />
 
