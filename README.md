@@ -15,7 +15,6 @@
 ###
 
 ### 🔭 What I'm up to
-- 🤖 Building **Tsukiyo**, a WhatsApp bot platform and community hub
 - ☁️ Running my own hosting panel on VPS infrastructure
 - 🌐 Working on web projects with **Next.js**
 - 🌱 Learning and shipping something new every week
