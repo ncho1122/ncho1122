@@ -72,4 +72,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncho1122/ncho1122/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ncho1122/ncho1122/output/pacman-contribution-graph.svg">
 </picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ncho1122/ncho1122/main/assets/pixel-footer.svg" alt="Pixel sunset footer" width="100%" />
 </div>
