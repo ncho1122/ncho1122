@@ -4,7 +4,7 @@
 
 <h2 align="left">Hi <img src="https://i.redd.it/uh4vju8yy6fe1.gif" width="28" alt="wave" />! My name is Nicho and I'm a Bot & Full-Stack Developer, from YOUR_CITY, Indonesia.</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="gif" />
+<img align="right" height="150" src="https://i.redd.it/uh4vju8yy6fe1.gif" alt="gif" />
 
 <p align="left">
   <a href="https://github.com/ncho1122">
