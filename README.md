@@ -15,10 +15,10 @@
 ###
 
 ### 🔭 What I'm up to
+- 🌱 Starting fresh and building new projects, one at a time
 - ☁️ Running my own hosting panel on VPS infrastructure
 - 🌐 Working on web projects with **Next.js**
-- 🌱 Learning and shipping something new every week
-
+- 📚 Learning and shipping something new every week
 ###
 
 ### 🛠️ Tech Stack
