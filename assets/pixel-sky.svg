@@ -68,5 +68,5 @@
   <!-- title -->
   <text x="404" y="112" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="48" font-weight="700" fill="#1e3a8a">Hi, I'm Nicho</text>
   <text x="400" y="108" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="48" font-weight="700" fill="#ffffff">Hi, I'm Nicho</text>
-  <text x="400" y="146" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="700" fill="#14306b">Bot &amp; Full-Stack Developer</text>
+  <text x="400" y="146" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="700" fill="#14306b"> &amp; Full-Stack Developer</text>
 </svg>
